@@ -1,0 +1,107 @@
+[
+      {
+        "customerId": "1001",
+        "name": "Ayaan Rahman",
+        "email": "ayaan@example.com",
+        "phone": "01710000001",
+        "address": "Dhaka, Bangladesh"
+      },
+      {
+        "customerId": "1002",
+        "name": "Mira Chowdhury",
+        "email": "mira@example.com",
+        "phone": "01710000002",
+        "address": "Chattogram, Bangladesh"
+      },
+      {
+        "customerId": "1003",
+        "name": "Tanvir Alam",
+        "email": "tanvir@example.com",
+        "phone": "01710000003",
+        "address": "Khulna, Bangladesh"
+      },
+      {
+        "customerId": "1004",
+        "name": "Nusrat Jahan",
+        "email": "nusrat@example.com",
+        "phone": "01710000004",
+        "address": "Sylhet, Bangladesh"
+      },
+      {
+        "customerId": "1005",
+        "name": "Fahim Hasan",
+        "email": "fahim@example.com",
+        "phone": "01710000005",
+        "address": "Barisal, Bangladesh"
+      },
+      {
+        "customerId": "1006",
+        "name": "Rafiq Ahmed",
+        "email": "rafiq@example.com",
+        "phone": "01710000006",
+        "address": "Rajshahi, Bangladesh"
+      },
+      {
+        "customerId": "1007",
+        "name": "Sadia Karim",
+        "email": "sadia@example.com",
+        "phone": "01710000007",
+        "address": "Rangpur, Bangladesh"
+      },
+      {
+        "customerId": "1008",
+        "name": "Zahid Mahmud",
+        "email": "zahid@example.com",
+        "phone": "01710000008",
+        "address": "Cumilla, Bangladesh"
+      },
+      {
+        "customerId": "1009",
+        "name": "Tasnim Ferdous",
+        "email": "tasnim@example.com",
+        "phone": "01710000009",
+        "address": "Narsingdi, Bangladesh"
+      },
+      {
+        "customerId": "1010",
+        "name": "Imran Hossain",
+        "email": "imran@example.com",
+        "phone": "01710000010",
+        "address": "Gazipur, Bangladesh"
+      },
+      {
+        "customerId": "1011",
+        "name": "Lamia Rahman",
+        "email": "lamia@example.com",
+        "phone": "01710000011",
+        "address": "Mymensingh, Bangladesh"
+      },
+      {
+        "customerId": "1012",
+        "name": "Arif Khan",
+        "email": "arif@example.com",
+        "phone": "01710000012",
+        "address": "Narayanganj, Bangladesh"
+      },
+      {
+        "customerId": "1013",
+        "name": "Farhana Sultana",
+        "email": "farhana@example.com",
+        "phone": "01710000013",
+        "address": "Jessore, Bangladesh"
+      },
+      {
+        "customerId": "1014",
+        "name": "Rakibul Islam",
+        "email": "rakibul@example.com",
+        "phone": "01710000014",
+        "address": "Bogra, Bangladesh"
+      },
+      {
+        "customerId": "1015",
+        "name": "Nazia Noor",
+        "email": "nazia@example.com",
+        "phone": "01710000015",
+        "address": "Pabna, Bangladesh"
+      }
+    ]  

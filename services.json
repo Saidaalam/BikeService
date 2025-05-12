@@ -1,0 +1,87 @@
+[
+    {
+      "bikeId": "f3f1b192-3e62-402e-9bd3-d351a5a10e92",
+      "serviceDate": "2025-04-11T10:00:00.000Z",
+      "description": "Oil change",
+      "status": "pending"
+    },
+    {
+      "bikeId": "b2a63d74-d1ff-4d8b-9dbd-cb3896e3a865",
+      "serviceDate": "2025-04-10T09:30:00.000Z",
+      "description": "Tire replacement",
+      "status": "pending"
+    },
+    {
+      "bikeId": "a3d2d3cb-f72f-4b63-a7d6-20e57bc30ef1",
+      "serviceDate": "2025-04-12T11:00:00.000Z",
+      "description": "Brake pad replacement",
+      "status": "in-progress"
+    },
+    {
+      "bikeId": "b5a52982-d998-4b2b-b6fe-83bafc7a3a88",
+      "serviceDate": "2025-04-13T10:15:00.000Z",
+      "description": "Engine tuning",
+      "status": "completed"
+    },
+    {
+      "bikeId": "f3f1b192-3e62-402e-9bd3-d351a5a10e92",
+      "serviceDate": "2025-04-14T14:30:00.000Z",
+      "description": "Battery check",
+      "status": "pending"
+    },
+    {
+      "bikeId": "c9bce2ff-44a2-4b3f-bef7-04f5e35d21d2",
+      "serviceDate": "2025-04-15T16:45:00.000Z",
+      "description": "Chain lubrication",
+      "status": "completed"
+    },
+    {
+      "bikeId": "f4c6d79c-3aef-4c9e-b2e0-d3502a1237f9",
+      "serviceDate": "2025-04-16T10:05:00.000Z",
+      "description": "Oil change",
+      "status": "pending"
+    },
+    {
+      "bikeId": "e2d82b3b-7a6f-4db0-95e5-9c79f8e0c57d",
+      "serviceDate": "2025-04-17T11:30:00.000Z",
+      "description": "Clutch replacement",
+      "status": "in-progress"
+    },
+    {
+      "bikeId": "a3d2d3cb-f72f-4b63-a7d6-20e57bc30ef1",
+      "serviceDate": "2025-04-18T12:00:00.000Z",
+      "description": "Tire balancing",
+      "status": "completed"
+    },
+    {
+      "bikeId": "f5b12c47-9880-47a6-8d5b-4d531a42c4bb",
+      "serviceDate": "2025-04-19T13:30:00.000Z",
+      "description": "Brake inspection",
+      "status": "pending"
+    },
+    {
+      "bikeId": "c9bce2ff-44a2-4b3f-bef7-04f5e35d21d2",
+      "serviceDate": "2025-04-20T14:15:00.000Z",
+      "description": "Suspension check",
+      "status": "completed"
+    },
+    {
+      "bikeId": "a3d2d3cb-f72f-4b63-a7d6-20e57bc30ef1",
+      "serviceDate": "2025-04-21T15:45:00.000Z",
+      "description": "Fuel system cleaning",
+      "status": "in-progress"
+    },
+    {
+      "bikeId": "f4c6d79c-3aef-4c9e-b2e0-d3502a1237f9",
+      "serviceDate": "2025-04-22T16:00:00.000Z",
+      "description": "Oil change",
+      "status": "pending"
+    },
+    {
+      "bikeId": "b2a63d74-d1ff-4d8b-9dbd-cb3896e3a865",
+      "serviceDate": "2025-04-23T09:45:00.000Z",
+      "description": "Tire patching",
+      "status": "completed"
+    }
+  ]
+  
