@@ -3,7 +3,7 @@ Project Summary
 The Bike Service Management System is a backend application designed to manage bike customers, services, and bike maintenance requests. The system allows users to add and update customer details, manage bike records, track service requests, and monitor overdue services. This system provides a clean API for managing bikes and services and includes a simple React frontend for interacting with the backend.
 
 Live Backend Link
-[The backend API is hosted on Your Backend Platform (e.g., Railway, Render).](https://bike-servicing-api-weld.vercel.app/)
+https://bike-servicing-api-weld.vercel.app/
 
 Tech Stack
 Node.js
